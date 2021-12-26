@@ -1,3 +1,5 @@
 second commit new branch
 add them branch 2
 xoa di dong ne
+add them dong cho conflic
+add them dong cho conflic
