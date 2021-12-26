@@ -1,3 +1,4 @@
 second commit new branch
 add them branch 2
 add them dong cho conflic
+add them dong cho conflic
